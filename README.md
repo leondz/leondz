@@ -10,6 +10,6 @@
 
 - 🏢 I'm principal investigator of the [Strømberg NLP](https://stromberg.ai/) group at [ITU Copenhagen](https://en/itu.dk)
 
-- 🧑‍🎓 I’m currently in my third decade of learning [sizecoding](http://www.sizecoding.org/wiki/Main_Page)
+- 🧑‍🎓 I’m *still* learning [sizecoding](http://www.sizecoding.org/wiki/Main_Page)
 
 - 🎓 My papers & citations are on [Google Scholar](https://scholar.google.dk/citations?user=d8iwqa8AAAAJ&hl=en). Ask me about any of them!
