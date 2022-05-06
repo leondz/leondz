@@ -12,4 +12,4 @@
 
 - 🧑‍🎓 I’m *still* learning [sizecoding](http://www.sizecoding.org/wiki/Main_Page)
 
-- 🎓 My papers & citations are on [Google Scholar](https://scholar.google.dk/citations?user=d8iwqa8AAAAJ&hl=en). Ask me about any of them!
+- 🎓 My papers are listed on [Google Scholar](https://scholar.google.dk/citations?user=d8iwqa8AAAAJ&hl=en). Ask me about any of them!
