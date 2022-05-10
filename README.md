@@ -12,4 +12,8 @@
 
 - 🧑‍🎓 I’m *still* learning [sizecoding](http://www.sizecoding.org/wiki/Main_Page)
 
-- 🎓 My papers are listed on [Google Scholar](https://scholar.google.dk/citations?user=d8iwqa8AAAAJ&hl=en). Ask me about any of them!
+- 🎓 My reearch papers are listed on [Google Scholar](https://scholar.google.dk/citations?user=d8iwqa8AAAAJ&hl=en). Ask me about any of them!
+
+---
+
+[![Leon's GitHub stats](https://github-readme-stats.vercel.app/api?username=leondz)](https://github.com/anuraghazra/github-readme-stats)
