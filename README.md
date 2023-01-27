@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-
 - 🔭 My research is on natural language processing and machine learning. I'm currently looking at:
   - 🛡️ **Online harms:** misinformation processing, hate speech & abusive language detection. [Work safely with this data!](https://arxiv.org/abs/2204.14256)
   - 🌱 **Efficient machine learning:** we should be able to do more with much less than we have; always interested in data efficiency and greener, smaller, faster 🚀, coarser models
@@ -12,7 +11,9 @@
 
 - 🧑‍🎓 I’m *still* learning [sizecoding](http://www.sizecoding.org/wiki/Main_Page)
 
-- 🎓 My reearch papers are listed on [Google Scholar](https://scholar.google.dk/citations?user=d8iwqa8AAAAJ&hl=en). Ask me about any of them!
+- 🎓 My reearch papers are on [Google Scholar](https://scholar.google.dk/citations?user=d8iwqa8AAAAJ&hl=en). Ask me about any of them!
+
+- 🪶 I write NLP, machine learning, and language tech articles on my blog, [Inter Human Agreement](https://interhumanagreement.substack.com/)
 
 ---
 
