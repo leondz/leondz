@@ -7,7 +7,7 @@
   - 🇩🇰 **NLP for Danish:** I started and run [the Danish Gigaword project](https://gigaword.dk)
   - 🥼 **Clinical NLP:** how can we process medical records to, eventually, improve health outcomes
 
-- 🏢 I'm principal investigator of the [Strømberg NLP](https://stromberg.ai/) group at [ITU Copenhagen](https://en.itu.dk) for my day job
+- 🏢 I'm principal investigator of the [Strømberg NLP](https://stromberg.ai/) group at [ITU Copenhagen](https://en.itu.dk) & visiting professor at [UW NLP](https://www.cs.washington.edu/research/nlp) for my day job
 
 - 🧑‍🎓 I’m *still* learning [sizecoding](http://www.sizecoding.org/wiki/Main_Page)
 
