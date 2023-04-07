@@ -14,7 +14,3 @@
 - 🎓 My reearch papers are on [Google Scholar](https://scholar.google.dk/citations?user=d8iwqa8AAAAJ&hl=en). Ask me about any of them!
 
 - 🪶 I write NLP, machine learning, and language tech articles on my blog, [Inter Human Agreement](https://interhumanagreement.substack.com/)
-
----
-
-[![Leon's GitHub stats](https://github-readme-stats.vercel.app/api?username=leondz)](https://github.com/anuraghazra/github-readme-stats)
