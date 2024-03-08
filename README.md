@@ -8,10 +8,10 @@
 <!--  - 🇩🇰 **NLP for Danish:** I started and run [the Danish Gigaword project](https://gigaword.dk) -->
 <!--  - 🥼 **Clinical NLP:** how can we process medical records to, eventually, improve health outcomes -->
 
-- 🏢 I'm principal investigator of the [Strømberg NLP](https://stromberg.ai/) group at [ITU Copenhagen](https://en.itu.dk) & visiting professor at [UW NLP](https://www.cs.washington.edu/research/nlp) for my day job
+- 🏢 I'm principal investigator of the [Strømberg NLP](https://stromberg.ai/) group at [ITU Copenhagen](https://en.itu.dk) by night & principal research scientist at NVIDIA for my day job
 
 - 🧑‍🎓 I’m *still* learning [sizecoding](http://www.sizecoding.org/wiki/Main_Page)
 
-- 🎓 My reearch papers are on [Google Scholar](https://scholar.google.dk/citations?user=d8iwqa8AAAAJ&hl=en). Ask me about any of them!
+- 🎓 My research papers are on [Google Scholar](https://scholar.google.dk/citations?user=d8iwqa8AAAAJ&hl=en). Ask me about any of them!
 
 - 🪶 I write NLP, machine learning, and language tech articles on my blog, [Inter Human Agreement](https://interhumanagreement.substack.com/)
