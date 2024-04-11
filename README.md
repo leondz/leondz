@@ -8,7 +8,7 @@
 <!--  - 🇩🇰 **NLP for Danish:** I started and run [the Danish Gigaword project](https://gigaword.dk) -->
 <!--  - 🥼 **Clinical NLP:** how can we process medical records to, eventually, improve health outcomes -->
 
-- 🏢 I'm principal research scientist at [NVIDIA](https://www.nvidia.com/en-us/) for my day job and principal investigator of the [Strømberg NLP](https://stromberg.ai/) group at [ITU Copenhagen](https://en.itu.dk) by night
+- 🏢 I'm principal research scientist at [NVIDIA](https://www.nvidia.com/en-us/) for my day job, principal investigator of [Strømberg NLP](https://stromberg.ai/) at [ITU Copenhagen](https://en.itu.dk) by night
 
 - 🧑‍🎓 I’m *still* learning [sizecoding](http://www.sizecoding.org/wiki/Main_Page)
 
